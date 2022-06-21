@@ -1,2 +1,3 @@
 This is a simple text file.
 Upolading to Git.
+Now we have the java cose in the text file.
